@@ -1,1 +1,2221 @@
-[{"ch": "1.1", "fr": "achat", "en": "purchase", "g": "m"}, {"ch": "1.1", "fr": "acheter", "en": "to buy", "g": "v"}, {"ch": "1.1", "fr": "acheteur", "en": "buyer", "g": "m"}, {"ch": "1.1", "fr": "actif", "en": "active", "g": "a"}, {"ch": "1.1", "fr": "action", "en": "share, stock", "g": "f"}, {"ch": "1.1", "fr": "actionnaire", "en": "shareholder", "g": "m"}, {"ch": "1.1", "fr": "activité", "en": "activity", "g": "f"}, {"ch": "1.1", "fr": "administration", "en": "administration", "g": "f"}, {"ch": "1.1", "fr": "agence", "en": "agency", "g": "f"}, {"ch": "1.1", "fr": "agrandissement", "en": "expansion", "g": "m"}, {"ch": "1.1", "fr": "agriculteur", "en": "farmer", "g": "m"}, {"ch": "1.1", "fr": "agriculture", "en": "agriculture", "g": "f"}, {"ch": "1.1", "fr": "aliment", "en": "food product", "g": "m"}, {"ch": "1.1", "fr": "apport", "en": "contribution", "g": "m"}, {"ch": "1.1", "fr": "association", "en": "association", "g": "f"}, {"ch": "1.1", "fr": "assurance", "en": "insurance", "g": "f"}, {"ch": "1.1", "fr": "autorité", "en": "authority", "g": "f"}, {"ch": "1.1", "fr": "bancaire", "en": "banking", "g": "a"}, {"ch": "1.1", "fr": "banque", "en": "bank", "g": "f"}, {"ch": "1.1", "fr": "banquier", "en": "banker", "g": "m"}, {"ch": "1.1", "fr": "bénéfice", "en": "profit", "g": "m"}, {"ch": "1.1", "fr": "bénéficiaire", "en": "profitable", "g": "a"}, {"ch": "1.1", "fr": "bien", "en": "good", "g": "m"}, {"ch": "1.1", "fr": "but", "en": "goal", "g": "m"}, {"ch": "1.1", "fr": "capital", "en": "capital", "g": "m"}, {"ch": "1.1", "fr": "commerçant", "en": "trader, merchant", "g": "m"}, {"ch": "1.1", "fr": "commerce", "en": "trade", "g": "m"}, {"ch": "1.1", "fr": "commercialiser", "en": "to market", "g": "v"}, {"ch": "1.1", "fr": "compagnie", "en": "company", "g": "f"}, {"ch": "1.1", "fr": "construction", "en": "construction", "g": "f"}, {"ch": "1.1", "fr": "création", "en": "creation, establishment", "g": "f"}, {"ch": "1.1", "fr": "créer", "en": "to create, establish", "g": "v"}, {"ch": "1.1", "fr": "croissance", "en": "growth", "g": "f"}, {"ch": "1.1", "fr": "distribution", "en": "distribution", "g": "f"}, {"ch": "1.1", "fr": "dividende", "en": "dividend", "g": "m"}, {"ch": "1.1", "fr": "domicile", "en": "registered address", "g": "m"}, {"ch": "1.1", "fr": "emploi", "en": "employment", "g": "m"}, {"ch": "1.1", "fr": "employé", "en": "employee", "g": "m"}, {"ch": "1.1", "fr": "employer", "en": "to employ", "g": "v"}, {"ch": "1.1", "fr": "entreprise", "en": "business, company", "g": "f"}, {"ch": "1.1", "fr": "établissement", "en": "establishment, branch", "g": "m"}, {"ch": "1.1", "fr": "État", "en": "state", "g": "m"}, {"ch": "1.1", "fr": "étranger", "en": "foreign, abroad", "g": "a"}, {"ch": "1.1", "fr": "exploitation", "en": "operation", "g": "f"}, {"ch": "1.1", "fr": "fabricant", "en": "manufacturer", "g": "m"}, {"ch": "1.1", "fr": "fabrication", "en": "manufacturing", "g": "f"}, {"ch": "1.1", "fr": "fabriquer", "en": "to manufacture", "g": "v"}, {"ch": "1.1", "fr": "faillite", "en": "bankruptcy", "g": "f"}, {"ch": "1.1", "fr": "fermeture", "en": "closure", "g": "f"}, {"ch": "1.1", "fr": "filiale", "en": "subsidiary", "g": "f"}, {"ch": "1.1", "fr": "firme", "en": "firm", "g": "f"}, {"ch": "1.1", "fr": "fondateur", "en": "founder", "g": "m"}, {"ch": "1.1", "fr": "fondation", "en": "foundation", "g": "f"}, {"ch": "1.2", "fr": "administrateur", "en": "administrator, director", "g": "m"}, {"ch": "1.2", "fr": "administrer", "en": "to administer", "g": "v"}, {"ch": "1.2", "fr": "cadre", "en": "managerial employee", "g": "m"}, {"ch": "1.2", "fr": "chef d'entreprise", "en": "business leader", "g": "m"}, {"ch": "1.2", "fr": "chef de service", "en": "department head", "g": "m"}, {"ch": "1.2", "fr": "comptabiliser", "en": "to record in accounts", "g": "v"}, {"ch": "1.2", "fr": "comptabilité", "en": "accounting", "g": "f"}, {"ch": "1.2", "fr": "comptable", "en": "accountant", "g": "m"}, {"ch": "1.2", "fr": "condition", "en": "condition", "g": "f"}, {"ch": "1.2", "fr": "conseil", "en": "advice, consultancy", "g": "m"}, {"ch": "1.2", "fr": "conseiller", "en": "to advise", "g": "v"}, {"ch": "1.2", "fr": "consultant", "en": "consultant", "g": "m"}, {"ch": "1.2", "fr": "coordination", "en": "coordination", "g": "f"}, {"ch": "1.2", "fr": "coordinateur", "en": "coordinator", "g": "m"}, {"ch": "1.2", "fr": "coordonner", "en": "to coordinate", "g": "v"}, {"ch": "1.2", "fr": "démission", "en": "resignation", "g": "f"}, {"ch": "1.2", "fr": "démissionner", "en": "to resign", "g": "v"}, {"ch": "1.2", "fr": "département", "en": "department", "g": "m"}, {"ch": "1.2", "fr": "directeur", "en": "director", "g": "m"}, {"ch": "1.2", "fr": "direction", "en": "management", "g": "f"}, {"ch": "1.2", "fr": "directive", "en": "instruction, guideline", "g": "f"}, {"ch": "1.2", "fr": "dirigeant d'entreprise", "en": "business executive", "g": "m"}, {"ch": "1.2", "fr": "diriger", "en": "to lead, manage", "g": "v"}, {"ch": "1.2", "fr": "embauche", "en": "recruitment, hiring", "g": "f"}, {"ch": "1.2", "fr": "embaucher", "en": "to hire", "g": "v"}, {"ch": "1.2", "fr": "emploi", "en": "job, employment", "g": "m"}, {"ch": "1.2", "fr": "employé", "en": "employee", "g": "m"}, {"ch": "1.2", "fr": "encadrer", "en": "to supervise", "g": "v"}, {"ch": "1.2", "fr": "encadrement", "en": "supervision", "g": "m"}, {"ch": "1.2", "fr": "équipe", "en": "team", "g": "f"}, {"ch": "1.2", "fr": "exécuter", "en": "to execute", "g": "v"}, {"ch": "1.2", "fr": "exécution", "en": "execution", "g": "f"}, {"ch": "1.2", "fr": "fonction", "en": "role, position", "g": "f"}, {"ch": "1.2", "fr": "freelance", "en": "freelancer", "g": "m"}, {"ch": "1.2", "fr": "gérant", "en": "manager", "g": "m"}, {"ch": "1.2", "fr": "gérer", "en": "to manage", "g": "v"}, {"ch": "1.2", "fr": "gestion", "en": "management", "g": "f"}, {"ch": "1.2", "fr": "gestionnaire", "en": "manager", "g": "m"}, {"ch": "1.2", "fr": "indépendant", "en": "self-employed", "g": "a"}, {"ch": "1.2", "fr": "instruction", "en": "instruction", "g": "f"}, {"ch": "1.2", "fr": "intérimaire", "en": "temporary worker", "g": "m"}, {"ch": "1.2", "fr": "hiérarchie", "en": "hierarchy", "g": "f"}, {"ch": "1.2", "fr": "hiérarchique", "en": "hierarchical", "g": "a"}, {"ch": "1.2", "fr": "licencier", "en": "to dismiss, fire", "g": "v"}, {"ch": "1.2", "fr": "licenciement", "en": "dismissal, layoff", "g": "m"}, {"ch": "1.2", "fr": "management", "en": "management", "g": "m"}, {"ch": "1.2", "fr": "organigramme", "en": "organization chart", "g": "m"}, {"ch": "1.2", "fr": "ouvrier", "en": "manual worker", "g": "m"}, {"ch": "1.2", "fr": "patron", "en": "boss, employer", "g": "m"}, {"ch": "1.2", "fr": "piloter", "en": "to oversee, steer", "g": "v"}, {"ch": "1.3", "fr": "accord", "en": "agreement, deal", "g": "m"}, {"ch": "1.3", "fr": "affaiblir", "en": "to weaken", "g": "v"}, {"ch": "1.3", "fr": "affaiblissement", "en": "weakening", "g": "m"}, {"ch": "1.3", "fr": "agrandir", "en": "to expand", "g": "v"}, {"ch": "1.3", "fr": "agrandissement", "en": "expansion", "g": "m"}, {"ch": "1.3", "fr": "améliorer", "en": "to improve", "g": "v"}, {"ch": "1.3", "fr": "amélioration", "en": "improvement", "g": "f"}, {"ch": "1.3", "fr": "assainir", "en": "to restructure", "g": "v"}, {"ch": "1.3", "fr": "assainissement", "en": "restructuring", "g": "m"}, {"ch": "1.3", "fr": "avantage", "en": "advantage", "g": "m"}, {"ch": "1.3", "fr": "avantageux", "en": "advantageous", "g": "a"}, {"ch": "1.3", "fr": "bénéfice", "en": "profit", "g": "m"}, {"ch": "1.3", "fr": "bénéficiaire", "en": "profitable", "g": "a"}, {"ch": "1.3", "fr": "bilan", "en": "balance sheet", "g": "m"}, {"ch": "1.3", "fr": "cessation", "en": "cessation", "g": "f"}, {"ch": "1.3", "fr": "cesser", "en": "to cease", "g": "v"}, {"ch": "1.3", "fr": "chiffre d'affaires", "en": "turnover, revenue", "g": "m"}, {"ch": "1.3", "fr": "climat", "en": "climate", "g": "m"}, {"ch": "1.3", "fr": "clôturer", "en": "to close", "g": "v"}, {"ch": "1.3", "fr": "compétitif", "en": "competitive", "g": "a"}, {"ch": "1.3", "fr": "compétitivité", "en": "competitiveness", "g": "f"}, {"ch": "1.3", "fr": "comprimer", "en": "to reduce, squeeze", "g": "v"}, {"ch": "1.3", "fr": "compression", "en": "reduction, compression", "g": "f"}, {"ch": "1.3", "fr": "comptabilité", "en": "accounting", "g": "f"}, {"ch": "1.3", "fr": "compte", "en": "account", "g": "m"}, {"ch": "1.3", "fr": "conjoncture", "en": "economic conditions", "g": "f"}, {"ch": "1.3", "fr": "conjoncturel", "en": "cyclical", "g": "a"}, {"ch": "1.3", "fr": "conquérir", "en": "to conquer, capture", "g": "v"}, {"ch": "1.3", "fr": "conquête", "en": "conquest", "g": "f"}, {"ch": "1.3", "fr": "coût", "en": "cost", "g": "m"}, {"ch": "1.3", "fr": "coûter", "en": "to cost", "g": "v"}, {"ch": "1.3", "fr": "créance", "en": "receivable, claim", "g": "f"}, {"ch": "1.3", "fr": "créancier", "en": "creditor", "g": "m"}, {"ch": "1.3", "fr": "crise", "en": "crisis", "g": "f"}, {"ch": "1.3", "fr": "débiteur", "en": "debtor", "g": "m"}, {"ch": "1.3", "fr": "déficit", "en": "deficit", "g": "m"}, {"ch": "1.3", "fr": "déficitaire", "en": "loss-making", "g": "a"}, {"ch": "1.3", "fr": "se dégrader", "en": "to deteriorate", "g": "v"}, {"ch": "1.3", "fr": "dégradation", "en": "deterioration", "g": "f"}, {"ch": "1.3", "fr": "dette", "en": "debt", "g": "f"}, {"ch": "1.3", "fr": "développer", "en": "to develop", "g": "v"}, {"ch": "1.3", "fr": "développement", "en": "development", "g": "m"}, {"ch": "1.3", "fr": "difficulté", "en": "difficulty", "g": "f"}, {"ch": "1.3", "fr": "diversifier", "en": "to diversify", "g": "v"}, {"ch": "1.3", "fr": "diversification", "en": "diversification", "g": "f"}, {"ch": "1.3", "fr": "dresser", "en": "to draw up", "g": "v"}, {"ch": "1.3", "fr": "s'effondrer", "en": "to collapse", "g": "v"}, {"ch": "1.4", "fr": "absorber", "en": "to absorb", "g": "v"}, {"ch": "1.4", "fr": "absorption", "en": "absorption, takeover", "g": "f"}, {"ch": "1.4", "fr": "acheter", "en": "to buy", "g": "v"}, {"ch": "1.4", "fr": "acquérir", "en": "to acquire", "g": "v"}, {"ch": "1.4", "fr": "acquisition", "en": "acquisition", "g": "f"}, {"ch": "1.4", "fr": "action", "en": "share, stock", "g": "f"}, {"ch": "1.4", "fr": "actionnaire", "en": "shareholder", "g": "m"}, {"ch": "1.4", "fr": "affaiblir", "en": "to weaken", "g": "v"}, {"ch": "1.4", "fr": "améliorer", "en": "to improve", "g": "v"}, {"ch": "1.4", "fr": "associer", "en": "to associate", "g": "v"}, {"ch": "1.4", "fr": "augmenter", "en": "to increase", "g": "v"}, {"ch": "1.4", "fr": "céder", "en": "to transfer, give up", "g": "v"}, {"ch": "1.4", "fr": "coentreprise", "en": "joint venture", "g": "f"}, {"ch": "1.4", "fr": "collaborer", "en": "to collaborate", "g": "v"}, {"ch": "1.4", "fr": "compétitif", "en": "competitive", "g": "a"}, {"ch": "1.4", "fr": "compétitivité", "en": "competitiveness", "g": "f"}, {"ch": "1.4", "fr": "concentration", "en": "concentration", "g": "f"}, {"ch": "1.4", "fr": "conclure", "en": "to conclude, sign", "g": "v"}, {"ch": "1.4", "fr": "concurrence", "en": "competition", "g": "f"}, {"ch": "1.4", "fr": "concurrencer", "en": "to compete with", "g": "v"}, {"ch": "1.4", "fr": "concurrent", "en": "competitor", "g": "m"}, {"ch": "1.4", "fr": "concurrentiel", "en": "competitive", "g": "a"}, {"ch": "1.4", "fr": "conquérir", "en": "to conquer", "g": "v"}, {"ch": "1.4", "fr": "constituer", "en": "to form", "g": "v"}, {"ch": "1.4", "fr": "couvrir", "en": "to cover", "g": "v"}, {"ch": "1.4", "fr": "créer", "en": "to create", "g": "v"}, {"ch": "1.4", "fr": "déclencher", "en": "to trigger, launch", "g": "v"}, {"ch": "1.4", "fr": "se dégrader", "en": "to deteriorate", "g": "v"}, {"ch": "1.4", "fr": "se détériorer", "en": "to deteriorate", "g": "v"}, {"ch": "1.4", "fr": "démantèlement", "en": "dismantling", "g": "m"}, {"ch": "1.4", "fr": "démanteler", "en": "to dismantle", "g": "v"}, {"ch": "1.4", "fr": "se démarquer de", "en": "to stand out from", "g": "v"}, {"ch": "1.4", "fr": "détenir", "en": "to hold, own", "g": "v"}, {"ch": "1.4", "fr": "différenciation", "en": "differentiation", "g": "f"}, {"ch": "1.4", "fr": "dissoudre", "en": "to dissolve", "g": "v"}, {"ch": "1.4", "fr": "dominer", "en": "to dominate", "g": "v"}, {"ch": "1.4", "fr": "filiale", "en": "subsidiary", "g": "f"}, {"ch": "1.4", "fr": "fusion", "en": "merger", "g": "f"}, {"ch": "1.4", "fr": "fusionner", "en": "to merge", "g": "v"}, {"ch": "1.4", "fr": "gagner", "en": "to win, gain", "g": "v"}, {"ch": "1.4", "fr": "gérer", "en": "to manage", "g": "v"}, {"ch": "1.4", "fr": "groupe", "en": "group", "g": "m"}, {"ch": "1.4", "fr": "implanter", "en": "to establish, set up", "g": "v"}, {"ch": "1.4", "fr": "s'implanter", "en": "to establish oneself", "g": "v"}, {"ch": "1.4", "fr": "innovant", "en": "innovative", "g": "a"}, {"ch": "1.4", "fr": "innovation", "en": "innovation", "g": "f"}, {"ch": "1.4", "fr": "investir", "en": "to invest", "g": "v"}, {"ch": "1.4", "fr": "investissement", "en": "investment", "g": "m"}, {"ch": "1.4", "fr": "lancer", "en": "to launch", "g": "v"}, {"ch": "1.4", "fr": "licence", "en": "licence, permit", "g": "f"}]
+[
+ {
+  "ch": "1.1",
+  "fr": "achat",
+  "en": "purchase",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "acheter",
+  "en": "to buy",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "acheteur",
+  "en": "buyer",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "actif",
+  "en": "active",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "action",
+  "en": "share, stock",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "actionnaire",
+  "en": "shareholder",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "activité",
+  "en": "activity",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "administration",
+  "en": "administration",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "agence",
+  "en": "agency",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "agrandissement",
+  "en": "expansion",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "agriculteur",
+  "en": "farmer",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "agriculture",
+  "en": "agriculture",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "aliment",
+  "en": "food product",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "apport",
+  "en": "contribution",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "association",
+  "en": "association",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "assurance",
+  "en": "insurance",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "autorité",
+  "en": "authority",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "bancaire",
+  "en": "banking",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "banque",
+  "en": "bank",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "banquier",
+  "en": "banker",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "bénéfice",
+  "en": "profit",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "bénéficiaire",
+  "en": "profitable",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "bien",
+  "en": "good",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "but",
+  "en": "goal",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "capital",
+  "en": "capital",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "commerçant",
+  "en": "trader, merchant",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "commerce",
+  "en": "trade",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "commercialiser",
+  "en": "to market",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "compagnie",
+  "en": "company",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "construction",
+  "en": "construction",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "création",
+  "en": "creation, establishment",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "créer",
+  "en": "to create, establish",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "croissance",
+  "en": "growth",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "distribution",
+  "en": "distribution",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "dividende",
+  "en": "dividend",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "domicile",
+  "en": "registered address",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "emploi",
+  "en": "employment",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "employé",
+  "en": "employee",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "employer",
+  "en": "to employ",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "entreprise",
+  "en": "business, company",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "établissement",
+  "en": "establishment, branch",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "État",
+  "en": "state",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "étranger",
+  "en": "foreign, abroad",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "exploitation",
+  "en": "operation",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "fabricant",
+  "en": "manufacturer",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "fabrication",
+  "en": "manufacturing",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "fabriquer",
+  "en": "to manufacture",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "faillite",
+  "en": "bankruptcy",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "fermeture",
+  "en": "closure",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "filiale",
+  "en": "subsidiary",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "firme",
+  "en": "firm",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "fondateur",
+  "en": "founder",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "fondation",
+  "en": "foundation",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "administrateur",
+  "en": "administrator, director",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "administrer",
+  "en": "to administer",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "cadre",
+  "en": "managerial employee",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "chef d'entreprise",
+  "en": "business leader",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "chef de service",
+  "en": "department head",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "comptabiliser",
+  "en": "to record in accounts",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "comptabilité",
+  "en": "accounting",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "comptable",
+  "en": "accountant",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "condition",
+  "en": "condition",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "conseil",
+  "en": "advice, consultancy",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "conseiller",
+  "en": "to advise",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "consultant",
+  "en": "consultant",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "coordination",
+  "en": "coordination",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "coordinateur",
+  "en": "coordinator",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "coordonner",
+  "en": "to coordinate",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "démission",
+  "en": "resignation",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "démissionner",
+  "en": "to resign",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "département",
+  "en": "department",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "directeur",
+  "en": "director",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "direction",
+  "en": "management",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "directive",
+  "en": "instruction, guideline",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "dirigeant d'entreprise",
+  "en": "business executive",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "diriger",
+  "en": "to lead, manage",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "embauche",
+  "en": "recruitment, hiring",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "embaucher",
+  "en": "to hire",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "emploi",
+  "en": "job, employment",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "employé",
+  "en": "employee",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "encadrer",
+  "en": "to supervise",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "encadrement",
+  "en": "supervision",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "équipe",
+  "en": "team",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "exécuter",
+  "en": "to execute",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "exécution",
+  "en": "execution",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "fonction",
+  "en": "role, position",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "freelance",
+  "en": "freelancer",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "gérant",
+  "en": "manager",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "gérer",
+  "en": "to manage",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "gestion",
+  "en": "management",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "gestionnaire",
+  "en": "manager",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "indépendant",
+  "en": "self-employed",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "instruction",
+  "en": "instruction",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "intérimaire",
+  "en": "temporary worker",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "hiérarchie",
+  "en": "hierarchy",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "hiérarchique",
+  "en": "hierarchical",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "licencier",
+  "en": "to dismiss, fire",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "licenciement",
+  "en": "dismissal, layoff",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "management",
+  "en": "management",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "organigramme",
+  "en": "organization chart",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "ouvrier",
+  "en": "manual worker",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "patron",
+  "en": "boss, employer",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "piloter",
+  "en": "to oversee, steer",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "accord",
+  "en": "agreement, deal",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "affaiblir",
+  "en": "to weaken",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "affaiblissement",
+  "en": "weakening",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "agrandir",
+  "en": "to expand",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "agrandissement",
+  "en": "expansion",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "améliorer",
+  "en": "to improve",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "amélioration",
+  "en": "improvement",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "assainir",
+  "en": "to restructure",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "assainissement",
+  "en": "restructuring",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "avantage",
+  "en": "advantage",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "avantageux",
+  "en": "advantageous",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "bénéfice",
+  "en": "profit",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "bénéficiaire",
+  "en": "profitable",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "bilan",
+  "en": "balance sheet",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "cessation",
+  "en": "cessation",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "cesser",
+  "en": "to cease",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "chiffre d'affaires",
+  "en": "turnover, revenue",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "climat",
+  "en": "climate",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "clôturer",
+  "en": "to close",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "compétitif",
+  "en": "competitive",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "compétitivité",
+  "en": "competitiveness",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "comprimer",
+  "en": "to reduce, squeeze",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "compression",
+  "en": "reduction, compression",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "comptabilité",
+  "en": "accounting",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "compte",
+  "en": "account",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "conjoncture",
+  "en": "economic conditions",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "conjoncturel",
+  "en": "cyclical",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "conquérir",
+  "en": "to conquer, capture",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "conquête",
+  "en": "conquest",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "coût",
+  "en": "cost",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "coûter",
+  "en": "to cost",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "créance",
+  "en": "receivable, claim",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "créancier",
+  "en": "creditor",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "crise",
+  "en": "crisis",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "débiteur",
+  "en": "debtor",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "déficit",
+  "en": "deficit",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "déficitaire",
+  "en": "loss-making",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "se dégrader",
+  "en": "to deteriorate",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "dégradation",
+  "en": "deterioration",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "dette",
+  "en": "debt",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "développer",
+  "en": "to develop",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "développement",
+  "en": "development",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "difficulté",
+  "en": "difficulty",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "diversifier",
+  "en": "to diversify",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "diversification",
+  "en": "diversification",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "dresser",
+  "en": "to draw up",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "s'effondrer",
+  "en": "to collapse",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "absorber",
+  "en": "to absorb",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "absorption",
+  "en": "absorption, takeover",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "acheter",
+  "en": "to buy",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "acquérir",
+  "en": "to acquire",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "acquisition",
+  "en": "acquisition",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "action",
+  "en": "share, stock",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "actionnaire",
+  "en": "shareholder",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "affaiblir",
+  "en": "to weaken",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "améliorer",
+  "en": "to improve",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "associer",
+  "en": "to associate",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "augmenter",
+  "en": "to increase",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "céder",
+  "en": "to transfer, give up",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "coentreprise",
+  "en": "joint venture",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "collaborer",
+  "en": "to collaborate",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "compétitif",
+  "en": "competitive",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "compétitivité",
+  "en": "competitiveness",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "concentration",
+  "en": "concentration",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "conclure",
+  "en": "to conclude, sign",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "concurrence",
+  "en": "competition",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "concurrencer",
+  "en": "to compete with",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "concurrent",
+  "en": "competitor",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "concurrentiel",
+  "en": "competitive",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "conquérir",
+  "en": "to conquer",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "constituer",
+  "en": "to form",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "couvrir",
+  "en": "to cover",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "créer",
+  "en": "to create",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "déclencher",
+  "en": "to trigger, launch",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "se dégrader",
+  "en": "to deteriorate",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "se détériorer",
+  "en": "to deteriorate",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "démantèlement",
+  "en": "dismantling",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "démanteler",
+  "en": "to dismantle",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "se démarquer de",
+  "en": "to stand out from",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "détenir",
+  "en": "to hold, own",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "différenciation",
+  "en": "differentiation",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "dissoudre",
+  "en": "to dissolve",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "dominer",
+  "en": "to dominate",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "filiale",
+  "en": "subsidiary",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "fusion",
+  "en": "merger",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "fusionner",
+  "en": "to merge",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "gagner",
+  "en": "to win, gain",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "gérer",
+  "en": "to manage",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "groupe",
+  "en": "group",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "implanter",
+  "en": "to establish, set up",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "s'implanter",
+  "en": "to establish oneself",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "innovant",
+  "en": "innovative",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "innovation",
+  "en": "innovation",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "investir",
+  "en": "to invest",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "investissement",
+  "en": "investment",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "lancer",
+  "en": "to launch",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "licence",
+  "en": "licence, permit",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "à-côté",
+  "en": "side job",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "administration",
+  "en": "administration",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "agence",
+  "en": "agency",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "coordonnateur",
+  "en": "coordinator",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "employer",
+  "en": "to employ",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "étudiant",
+  "en": "student",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "flexi-jobber",
+  "en": "flexi-job worker",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "flexi-jobiste",
+  "en": "flexi-job worker",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "manager",
+  "en": "manager",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "occupation",
+  "en": "occupation",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "occuper",
+  "en": "to employ",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "ordre",
+  "en": "order",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "planning",
+  "en": "planning",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "planifier",
+  "en": "to plan",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "président-directeur général (PDG) (F)",
+  "en": "chief executive officer",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "recherche et développement (R&D)",
+  "en": "research and development",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "recruter",
+  "en": "to recruit",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "recrutement",
+  "en": "recruitment",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "rémunération",
+  "en": "remuneration, pay",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "rémunérer",
+  "en": "to remunerate, pay",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "responsable (de)",
+  "en": "responsible for",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "responsable",
+  "en": "person in charge",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "ressources humaines (RH)",
+  "en": "human resources",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "salaire",
+  "en": "salary",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "salarié",
+  "en": "salaried employee",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "salarier",
+  "en": "to employ on salary",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "travail",
+  "en": "work",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "travailler",
+  "en": "to work",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "travailleur",
+  "en": "worker",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "activité",
+  "en": "activity",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "s'affaiblir",
+  "en": "to weaken",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "s'améliorer",
+  "en": "to improve",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "chiffre d'affaires (CA)",
+  "en": "turnover, revenue",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "compétivité",
+  "en": "competitiveness",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "comptable",
+  "en": "accountant",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "cout",
+  "en": "cost",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "couter",
+  "en": "to cost",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "déposer",
+  "en": "to file",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "dépôt",
+  "en": "filing",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "désavantage",
+  "en": "disadvantage",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "désavantageux",
+  "en": "disadvantageous",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "se développer",
+  "en": "to develop",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "effondrement",
+  "en": "collapse",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "essor",
+  "en": "boom, expansion",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "établir",
+  "en": "to establish",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "étendre",
+  "en": "to extend",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "exercice",
+  "en": "financial year",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "expansion",
+  "en": "expansion",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "faillite",
+  "en": "bankruptcy",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "fermer",
+  "en": "to close",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "fermeture",
+  "en": "closure",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "gérer",
+  "en": "to manage",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "gestion",
+  "en": "management",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "inconvénient",
+  "en": "disadvantage",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "injecter",
+  "en": "to inject",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "injection",
+  "en": "injection",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "innover",
+  "en": "to innovate",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "innovateur",
+  "en": "innovative",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "innovation",
+  "en": "innovation",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "insolvable",
+  "en": "insolvent",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "investir",
+  "en": "to invest",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "investissement",
+  "en": "investment",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "investisseur",
+  "en": "investor",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "licenciement",
+  "en": "dismissal",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "licencier",
+  "en": "to dismiss",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "liquider",
+  "en": "to liquidate",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "morosité",
+  "en": "gloom, sluggishness",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "négociation",
+  "en": "negotiation",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "négocier",
+  "en": "to negotiate",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "ouvrir",
+  "en": "to open",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "ouverture",
+  "en": "opening",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "part de marché",
+  "en": "market share",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "perte",
+  "en": "loss",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "perfomance",
+  "en": "performance",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "performant",
+  "en": "high-performing",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "se porter bien",
+  "en": "to be doing well",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "se porter mal",
+  "en": "to be doing badly",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "porteur",
+  "en": "promising",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "poste",
+  "en": "position",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "problème",
+  "en": "problem",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "production",
+  "en": "production",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "recentrer",
+  "en": "to refocus",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "recentrage",
+  "en": "refocusing",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "récession",
+  "en": "recession",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "recherche",
+  "en": "research",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "réduction",
+  "en": "reduction",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "réduire",
+  "en": "to reduce",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "redressement",
+  "en": "recovery",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "redresser",
+  "en": "to recover",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "relance",
+  "en": "recovery",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "relancer",
+  "en": "to revive",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "renforcement",
+  "en": "strengthening",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "renforcer",
+  "en": "to strengthen",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "se renforcer",
+  "en": "to strengthen",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "rentabilité",
+  "en": "profitability",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "réorganiser",
+  "en": "to reorganize",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "reprendre",
+  "en": "to take over",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "repreneur",
+  "en": "buyer, acquirer",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "reprise",
+  "en": "takeover, recovery",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "restructuration",
+  "en": "restructuring",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "restructurer",
+  "en": "to restructure",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "revenu",
+  "en": "income",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "santé",
+  "en": "health",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "saturation",
+  "en": "saturation",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "saturé",
+  "en": "saturated",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "sauver",
+  "en": "to save",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "sauvetage",
+  "en": "rescue",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "solde",
+  "en": "balance",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "se solder par",
+  "en": "to result in",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "solvable",
+  "en": "solvent",
+  "g": "a",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "sous-traitance",
+  "en": "subcontracting",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "sous-traitant",
+  "en": "subcontractor",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "sous-traiter",
+  "en": "to subcontract",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "syndicat",
+  "en": "trade union",
+  "g": "m",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "vendre",
+  "en": "to sell",
+  "g": "v",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "vente",
+  "en": "sale",
+  "g": "f",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "ventes",
+  "en": "sales",
+  "g": "f",
+  "verified": true
+ }
+]

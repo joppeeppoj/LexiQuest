@@ -1,1 +1,1574 @@
-[{"ch": "1.1", "fr": "détenir des actions", "en": "to hold shares"}, {"ch": "1.1", "fr": "acheter des actions", "en": "to buy shares"}, {"ch": "1.1", "fr": "réaliser un bénéfice", "en": "to make a profit"}, {"ch": "1.1", "fr": "les biens de consommation", "en": "consumer goods"}, {"ch": "1.1", "fr": "créer une entreprise", "en": "to establish a company"}, {"ch": "1.1", "fr": "les petites et moyennes entreprises", "en": "small and medium-sized enterprises"}, {"ch": "1.1", "fr": "une entreprise multinationale", "en": "a multinational company"}, {"ch": "1.1", "fr": "une entreprise privée", "en": "a private company"}, {"ch": "1.1", "fr": "une entreprise publique", "en": "a public enterprise"}, {"ch": "1.1", "fr": "faire faillite", "en": "to go bankrupt"}, {"ch": "1.1", "fr": "une filiale à l'étranger", "en": "a subsidiary abroad"}, {"ch": "1.2", "fr": "le conseil d'administration", "en": "board of directors"}, {"ch": "1.2", "fr": "un entretien d'embauche", "en": "a job interview"}, {"ch": "1.2", "fr": "les conditions de travail", "en": "working conditions"}, {"ch": "1.2", "fr": "le directeur financier", "en": "chief financial officer"}, {"ch": "1.2", "fr": "le directeur commercial", "en": "sales director"}, {"ch": "1.2", "fr": "donner des directives", "en": "to give instructions"}, {"ch": "1.2", "fr": "une équipe soudée", "en": "a close-knit team"}, {"ch": "1.2", "fr": "une équipe expérimentée", "en": "an experienced team"}, {"ch": "1.2", "fr": "la ligne hiérarchique", "en": "reporting line"}, {"ch": "1.2", "fr": "une vague de licenciements", "en": "a wave of layoffs"}, {"ch": "1.3", "fr": "conclure un accord", "en": "to conclude an agreement"}, {"ch": "1.3", "fr": "générer des bénéfices", "en": "to generate profits"}, {"ch": "1.3", "fr": "dégager un bénéfice", "en": "to make a profit"}, {"ch": "1.3", "fr": "un bénéfice net", "en": "net profit"}, {"ch": "1.3", "fr": "un bénéfice brut", "en": "gross profit"}, {"ch": "1.3", "fr": "tenir la comptabilité", "en": "to keep the accounts"}, {"ch": "1.3", "fr": "dresser le bilan", "en": "to draw up the balance sheet"}, {"ch": "1.3", "fr": "un chiffre d'affaires élevé", "en": "high turnover"}, {"ch": "1.3", "fr": "la haute conjoncture", "en": "an economic boom"}, {"ch": "1.3", "fr": "comprimer les coûts", "en": "to cut costs"}, {"ch": "1.3", "fr": "des difficultés financières", "en": "financial difficulties"}, {"ch": "1.3", "fr": "le développement durable", "en": "sustainable development"}, {"ch": "1.4", "fr": "acquérir des parts de marché", "en": "to gain market share"}, {"ch": "1.4", "fr": "céder des parts de marché", "en": "to give up market share"}, {"ch": "1.4", "fr": "une concurrence déloyale", "en": "unfair competition"}, {"ch": "1.4", "fr": "une concurrence féroce", "en": "fierce competition"}, {"ch": "1.4", "fr": "faire face à la concurrence", "en": "to face competition"}, {"ch": "1.4", "fr": "se démarquer de la concurrence", "en": "to stand out from competitors"}, {"ch": "1.4", "fr": "déclencher une OPA", "en": "to launch a takeover bid"}, {"ch": "1.4", "fr": "conclure un contrat", "en": "to sign a contract"}, {"ch": "1.4", "fr": "conquérir un marché", "en": "to capture a market"}, {"ch": "1.4", "fr": "fusionner avec une entreprise", "en": "to merge with a company"}, {"ch": "1.4", "fr": "implanter une filiale à l'étranger", "en": "to set up a subsidiary abroad"}]
+[
+ {
+  "ch": "1.1",
+  "fr": "détenir des actions",
+  "en": "to hold shares",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "acheter des actions",
+  "en": "to buy shares",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "réaliser un bénéfice",
+  "en": "to make a profit",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "les biens de consommation",
+  "en": "consumer goods",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "créer une entreprise",
+  "en": "to establish a company",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "les petites et moyennes entreprises",
+  "en": "small and medium-sized enterprises",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "une entreprise multinationale",
+  "en": "a multinational company",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "une entreprise privée",
+  "en": "a private company",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "une entreprise publique",
+  "en": "a public enterprise",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "faire faillite",
+  "en": "to go bankrupt",
+  "verified": true
+ },
+ {
+  "ch": "1.1",
+  "fr": "une filiale à l'étranger",
+  "en": "a subsidiary abroad",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "le conseil d'administration",
+  "en": "board of directors",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "un entretien d'embauche",
+  "en": "a job interview",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "les conditions de travail",
+  "en": "working conditions",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "le directeur financier",
+  "en": "chief financial officer",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "le directeur commercial",
+  "en": "sales director",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "donner des directives",
+  "en": "to give instructions",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "une équipe soudée",
+  "en": "a close-knit team",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "une équipe expérimentée",
+  "en": "an experienced team",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "la ligne hiérarchique",
+  "en": "reporting line",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "une vague de licenciements",
+  "en": "a wave of layoffs",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "conclure un accord",
+  "en": "to conclude an agreement",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "générer des bénéfices",
+  "en": "to generate profits",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "dégager un bénéfice",
+  "en": "to make a profit",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "un bénéfice net",
+  "en": "net profit",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "un bénéfice brut",
+  "en": "gross profit",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "tenir la comptabilité",
+  "en": "to keep the accounts",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "dresser le bilan",
+  "en": "to draw up the balance sheet",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "un chiffre d'affaires élevé",
+  "en": "high turnover",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "la haute conjoncture",
+  "en": "an economic boom",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "comprimer les coûts",
+  "en": "to cut costs",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "des difficultés financières",
+  "en": "financial difficulties",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "le développement durable",
+  "en": "sustainable development",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "acquérir des parts de marché",
+  "en": "to gain market share",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "céder des parts de marché",
+  "en": "to give up market share",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "une concurrence déloyale",
+  "en": "unfair competition",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "une concurrence féroce",
+  "en": "fierce competition",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "faire face à la concurrence",
+  "en": "to face competition",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "se démarquer de la concurrence",
+  "en": "to stand out from competitors",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "déclencher une OPA",
+  "en": "to launch a takeover bid",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "conclure un contrat",
+  "en": "to sign a contract",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "conquérir un marché",
+  "en": "to capture a market",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "fusionner avec une entreprise",
+  "en": "to merge with a company",
+  "verified": true
+ },
+ {
+  "ch": "1.4",
+  "fr": "implanter une filiale à l'étranger",
+  "en": "to set up a subsidiary abroad",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "faire des à-côtés",
+  "en": "to do side jobs",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "avoir des à-côtés",
+  "en": "to have side jobs",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "administrateur délégué",
+  "en": "managing director",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "administrer une entreprise",
+  "en": "to run a business",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "une agence d'intérim",
+  "en": "a temporary employment agency",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "le cadre moyen",
+  "en": "middle management",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "le cadre supérieur",
+  "en": "senior management",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "conditions de travail",
+  "en": "working conditions",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "le cabinet de conseil",
+  "en": "consulting firm",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "coordonner une équipe",
+  "en": "to coordinate a team",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "coordonner des décisions",
+  "en": "to coordinate decisions",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "le directeur technique",
+  "en": "chief technical officer",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "le directeur du personnel",
+  "en": "HR director",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "le directeur administratif",
+  "en": "administrative director",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "le comité directeur",
+  "en": "executive committee",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "suivre des directives",
+  "en": "to follow instructions",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "diriger une entreprise",
+  "en": "to run a company",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "diriger une équipe",
+  "en": "to lead a team",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "l'esprit d'équipe",
+  "en": "team spirit",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "l'étudiant-entrepreneur",
+  "en": "student entrepreneur",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "l'étudiant-indépendant",
+  "en": "self-employed student",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "l'étudiant jobiste",
+  "en": "student worker",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "l'étudiant-travailleur",
+  "en": "working student",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "une activité freelance",
+  "en": "freelance activity",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "gérer une entreprise",
+  "en": "to manage a company",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "la gestion prévisionnelle des",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.2",
+  "fr": "un travailleur intérimaire",
+  "en": "temporary worker",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "l'échelle hiérarchique",
+  "en": "hierarchical ladder",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "manager une équipe",
+  "en": "to manage a team",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "être sans occupation",
+  "en": "to be unemployed",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "le taux d'occupation",
+  "en": "occupancy rate",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "un organigramme hiérarchique",
+  "en": "hierarchical organization chart",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "un organigramme horizontal",
+  "en": "flat organization chart",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "un organigramme matriciel",
+  "en": "matrix organization chart",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "planifier des activités",
+  "en": "to plan activities",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "planifier du personnel",
+  "en": "to schedule staff",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "directeur (des) RH (DRH)",
+  "en": "HR director",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "travailler à son compte",
+  "en": "to be self-employed",
+  "verified": true
+ },
+ {
+  "ch": "1.2",
+  "fr": "travailler en équipe",
+  "en": "to work in a team",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "être d'accord avec",
+  "en": "to agree with",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "être d'accord sur",
+  "en": "to agree on",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "négocier un accord",
+  "en": "to negotiate an agreement",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "poursuivre ses activités",
+  "en": "to continue operations",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "le niveau de compétitivité s'affaiblit",
+  "en": "competitiveness is weakening",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "l'affaiblissement de la position sur le marché",
+  "en": "weakening of market position",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "agrandir une entreprise",
+  "en": "to expand a business",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "améliorer ses résultats",
+  "en": "to improve results",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "le CA s'améliore",
+  "en": "turnover is improving",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "une mesure d'assainissement",
+  "en": "a restructuring measure",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "constituer un avantage important pour",
+  "en": "to be a major advantage for",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "une décision avantageuse pour",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "réaliser un bénéfice",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un faible bénéfice",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un bénéfice important",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un bénéfice limité",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un bénéfice record",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un bénéfice en baisse",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une entreprise bénéficiaire",
+  "en": "a profitable company",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "une marge bénéficiaire",
+  "en": "profit margin",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "le bilan d'entreprise",
+  "en": "company balance sheet",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "établir le bilan",
+  "en": "to prepare the balance sheet",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "déposer le bilan auprès du tribunal de l'entreprise",
+  "en": "to file for bankruptcy with the enterprise court",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "la cessation des activités",
+  "en": "cessation of operations",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "être en cessation de paiements",
+  "en": "to have stopped payments",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "cesser les paiements",
+  "en": "to stop making payments",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "cesser de payer les factures",
+  "en": "to stop paying invoices",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "réaliser un chiffre d'affaires",
+  "en": "to generate turnover",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "dégager un chiffre d'affaires",
+  "en": "to generate turnover",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "générer un chiffre d'affaires",
+  "en": "to generate turnover",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "un chiffre d'affaires élevé/important",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un chiffre d'affaires record",
+  "en": "record turnover",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "un faible chiffre d'affaires",
+  "en": "low turnover",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "un climat économique florissant",
+  "en": "a thriving economic climate",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "clôturer l'exercice par un déficit",
+  "en": "to close the financial year with a deficit",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "une entreprise compétitive",
+  "en": "a competitive company",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "un prix compétitif",
+  "en": "a competitive price",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "le niveau de compétitivité",
+  "en": "level of competitiveness",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "comprimer les couts",
+  "en": "to reduce costs",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "la compression des couts",
+  "en": "cost cutting",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "un exercice comptable",
+  "en": "a financial year",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "le service comptable",
+  "en": "accounting department",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "un compte de résultats",
+  "en": "income statement",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "le compte de résultats montre un déficit",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "le compte de résultats se solde par un déficit",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la basse conjoncture",
+  "en": "economic downturn",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "traverser/connaître une période de haute",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la conjoncture favorable",
+  "en": "favorable economic conditions",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "conquérir le marché extérieur",
+  "en": "to capture the foreign market",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "la conquête du marché extérieur",
+  "en": "capture of the foreign market",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "supporter les couts",
+  "en": "to bear costs",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "gérer les couts",
+  "en": "to manage costs",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "faire face à des couts",
+  "en": "to face costs",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "une créance sur un client",
+  "en": "a receivable from a customer",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "détenir une créance sur",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "payer un créancier",
+  "en": "to pay a creditor",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "rembourser un créancier",
+  "en": "to repay a creditor",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "être en crise",
+  "en": "to be in crisis",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "un mauvais débiteur",
+  "en": "a bad debtor",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "un débiteur insolvable",
+  "en": "an insolvent debtor",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "une entreprise débitrice",
+  "en": "a company in debt",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "faire face à un déficit",
+  "en": "to face a deficit",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "une entreprise déficitaire",
+  "en": "a loss-making company",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "la dégradation de la compétitivité",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "le dépôt du bilan (auprès du tribunal de",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "constituer un désavantage important pour",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une initiative désavantageuse pour",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "payer ses dettes",
+  "en": "to pay off debts",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "rembourser ses dettes",
+  "en": "to repay debts",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "faire face à ses dettes",
+  "en": "to meet debt obligations",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "développer ses activités",
+  "en": "to develop business activities",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "développer ses ventes",
+  "en": "to increase sales",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "le marché se développe fortement",
+  "en": "the market is growing rapidly",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "la R&D/la recherche et développement",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "connaitre des difficultés",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "faire face à des difficultés",
+  "en": "to face difficulties",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "être confronté à des difficultés",
+  "en": "to be confronted with difficulties",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "être en difficulté(s)",
+  "en": "to be in difficulty",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "dresser le bilan/le compte de résultats",
+  "en": "to draw up the balance sheet or income statement",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "le marché s'effondre",
+  "en": "the market is collapsing",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "l'effondrement du marché",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "l'essor d'un secteur",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "connaître un essor",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "être en plein essor",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "établir le bilan/le compte de résultats",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "étendre ses activités à l'étranger",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "l'expansion du marché",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "être en pleine expansion",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la stratégie d'expansion",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "faire faillite",
+  "en": "to go bankrupt",
+  "verified": true
+ },
+ {
+  "ch": "1.3",
+  "fr": "être en faillite",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "déclarer (une entreprise) en faillite",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "fermer une usine",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "fermer ses portes",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "fournir des matières premières",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "fournir une entreprise en matières premières",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "fournir un magasin",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "être bien géré",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "être mal géré",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la bonne gestion",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la mauvaise gestion",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "constituer un inconvénient important pour",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "injecter de l'argent dans",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une injection de capital",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une entreprise innovatrice",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une entreprise insolvable",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "investir dans",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "des licenciements massifs",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "liquider une entreprise",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la morosité économique/de l'économie",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "mener des négociations avec les créanciers",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "l'ouverture d'un établissement",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "détenir une part de marche (de n %)",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "gagner des parts de marché",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "acquérir des parts de marché",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "perdre des parts de marché",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "céder des parts de marché à la concurrence",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "accuser/enregistrer/subir une perte",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une lourde perte",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une perte importante",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une perte limitée / une faible perte",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une perte nette",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une perte brute",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la performance d'une entreprise",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un plan de restructuration",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un plan de redressement",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un plan de sauvetage",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "l'entreprise se porte bien",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "l'entreprise se porte mal",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une activité porteuse",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un secteur porteur",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un marché/un créneau porteur",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "se situer sur un marché porteur",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "supprimer des postes",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la suppression des postes",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "des problèmes financiers",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "connaître des problèmes",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "faire face à des problèmes",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "être confronté à des problèmes",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une unité de production",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "recentrer ses activités sur",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "le recentrage de l'entreprise sur",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "entrer en récession",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la recherche technologique",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "investir dans la recherche",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la réduction des activités",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la réduction des couts",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "réduire ses activités",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "réduire les couts",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "le redressement d'une entreprise",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "redresser une entreprise",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un plan de relance",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "relancer l'économie",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "relancer la croissance",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "le renforcement de la position de l'entreprise sur",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "renforcer sa position sur le marché",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la position de l'entreprise sur le marché se",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la rentabilité d'un investissement",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "réorganiser une entreprise",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "reprendre une entreprise",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la reprise d'une entreprise",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la restructuration d'une entreprise",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "restructurer une entreprise",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "générer des revenus",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "augmenter le revenu",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "être en bonne santé",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "la saturation du marché/de la demande",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un marché saturé",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "sauver une entreprise de la faillite",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "le sauvetage d'une entreprise en difficultés",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un solde positif",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "le compte de résultats se solde par un",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "un débiteur solvable",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "une entreprise solvable",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "sous-traiter une activité/une partie du travail",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "les chiffres de vente",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "promouvoir la vente d'un produit",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "le volume des ventes",
+  "en": "",
+  "verified": false
+ },
+ {
+  "ch": "1.3",
+  "fr": "doper/stimuler/augmenter les ventes",
+  "en": "",
+  "verified": false
+ }
+]
